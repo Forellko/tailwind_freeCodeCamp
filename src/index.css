@@ -4,6 +4,6 @@
 
 @layer base {
   html {
-    background-color: lime;
+    @apply bg-slate-600;
   }
 }
