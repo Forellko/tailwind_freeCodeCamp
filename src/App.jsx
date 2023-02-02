@@ -10,7 +10,9 @@ function App() {
       <h3 className="text-xl">Ttile 3</h3>
       <p className="text-base">A regular paragraph</p>
       <p className="text-sm">A description paragraph</p>
-      <p className="text-xs">A little note</p>
+      <p className="text-xs pt-[100px] pb-[100px] mr-[100px] ml-[100px]">
+        A little note
+      </p>
       <p className="truncate p-5 m-5">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
         voluptas impedit consequuntur possimus, dolor aliquid recusandae?
