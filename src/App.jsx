@@ -8,7 +8,7 @@ function App() {
       </h1>
       <h2 className="text-2xl capitalize">title 2</h2>
       <h3 className="text-xl">Ttile 3</h3>
-      <p className="text-base">A regular paragraph</p>
+      <p className="text-base -m-[100px]">A regular paragraph</p>
       <p className="text-sm">A description paragraph</p>
       <p className="text-xs pt-[100px] pb-[100px] mr-[100px] ml-[100px]">
         A little note
